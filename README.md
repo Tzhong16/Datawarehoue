@@ -2,6 +2,8 @@
 
 ## Adventureworks database diagram:
 
+Adventureworks database is the data source we use to build our data warehouse.
+
 ![adventureworks-database-diagram](/image/adventureworks-database-diagram.png)
 
 ## The data warehouse project is mainly built for answering 3 main questions.
